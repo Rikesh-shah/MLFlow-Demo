@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/491389092300289930/596aa083334f4649bb29cf9e3a1b3eed/artifacts
+end_time: 1734582375114
+entry_point_name: ''
+experiment_id: '491389092300289930'
+lifecycle_stage: active
+run_id: 596aa083334f4649bb29cf9e3a1b3eed
+run_name: merciful-goat-897
+run_uuid: 596aa083334f4649bb29cf9e3a1b3eed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734582370917
+status: 3
+tags: []
+user_id: rikes

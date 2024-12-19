@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/491389092300289930/ebc14aa2f9e44bd5807a0d8d997b966b/artifacts
+end_time: 1734588053952
+entry_point_name: ''
+experiment_id: '491389092300289930'
+lifecycle_stage: active
+run_id: ebc14aa2f9e44bd5807a0d8d997b966b
+run_name: caring-frog-276
+run_uuid: ebc14aa2f9e44bd5807a0d8d997b966b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734588053833
+status: 3
+tags: []
+user_id: rikes

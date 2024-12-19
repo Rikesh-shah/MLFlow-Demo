@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/491389092300289930/e8ee168f263b4e8583b6a7f8b1fcf12f/artifacts
+end_time: 1734582411668
+entry_point_name: ''
+experiment_id: '491389092300289930'
+lifecycle_stage: active
+run_id: e8ee168f263b4e8583b6a7f8b1fcf12f
+run_name: peaceful-tern-138
+run_uuid: e8ee168f263b4e8583b6a7f8b1fcf12f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734582407405
+status: 3
+tags: []
+user_id: rikes

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/491389092300289930/4fe4e5d29bae41559fa9aac9a6f4f34b/artifacts
+end_time: 1734582403483
+entry_point_name: ''
+experiment_id: '491389092300289930'
+lifecycle_stage: active
+run_id: 4fe4e5d29bae41559fa9aac9a6f4f34b
+run_name: entertaining-kit-801
+run_uuid: 4fe4e5d29bae41559fa9aac9a6f4f34b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734582399622
+status: 3
+tags: []
+user_id: rikes

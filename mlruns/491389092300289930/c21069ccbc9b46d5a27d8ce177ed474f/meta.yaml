@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/491389092300289930/c21069ccbc9b46d5a27d8ce177ed474f/artifacts
+end_time: 1734588053795
+entry_point_name: ''
+experiment_id: '491389092300289930'
+lifecycle_stage: active
+run_id: c21069ccbc9b46d5a27d8ce177ed474f
+run_name: merciful-snake-176
+run_uuid: c21069ccbc9b46d5a27d8ce177ed474f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734588053585
+status: 3
+tags: []
+user_id: rikes

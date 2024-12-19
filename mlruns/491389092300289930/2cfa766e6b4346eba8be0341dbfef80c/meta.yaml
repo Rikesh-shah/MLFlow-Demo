@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/491389092300289930/2cfa766e6b4346eba8be0341dbfef80c/artifacts
+end_time: 1734588048731
+entry_point_name: ''
+experiment_id: '491389092300289930'
+lifecycle_stage: active
+run_id: 2cfa766e6b4346eba8be0341dbfef80c
+run_name: wistful-shrew-617
+run_uuid: 2cfa766e6b4346eba8be0341dbfef80c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734588048595
+status: 3
+tags: []
+user_id: rikes

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/364053249180679050/c9ebb58bfb1a4c1bb3e3ff511be4cc07/artifacts
+end_time: 1734454986361
+entry_point_name: ''
+experiment_id: '364053249180679050'
+lifecycle_stage: active
+run_id: c9ebb58bfb1a4c1bb3e3ff511be4cc07
+run_name: first Run
+run_uuid: c9ebb58bfb1a4c1bb3e3ff511be4cc07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734454982113
+status: 3
+tags: []
+user_id: rikes

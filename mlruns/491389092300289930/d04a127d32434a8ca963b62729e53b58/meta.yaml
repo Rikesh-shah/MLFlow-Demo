@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/491389092300289930/d04a127d32434a8ca963b62729e53b58/artifacts
+end_time: 1734582450747
+entry_point_name: ''
+experiment_id: '491389092300289930'
+lifecycle_stage: active
+run_id: d04a127d32434a8ca963b62729e53b58
+run_name: suave-donkey-782
+run_uuid: d04a127d32434a8ca963b62729e53b58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734582446533
+status: 3
+tags: []
+user_id: rikes

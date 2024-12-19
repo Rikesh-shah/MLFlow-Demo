@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/258752146598027028/1f1e5ecae3974e2190054b0553a71059/artifacts
+end_time: 1734579626437
+entry_point_name: ''
+experiment_id: '258752146598027028'
+lifecycle_stage: active
+run_id: 1f1e5ecae3974e2190054b0553a71059
+run_name: intelligent-swan-775
+run_uuid: 1f1e5ecae3974e2190054b0553a71059
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734579614346
+status: 3
+tags: []
+user_id: rikes

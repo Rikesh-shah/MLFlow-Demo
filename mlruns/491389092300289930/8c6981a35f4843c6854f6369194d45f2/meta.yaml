@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/491389092300289930/8c6981a35f4843c6854f6369194d45f2/artifacts
+end_time: 1734582424418
+entry_point_name: ''
+experiment_id: '491389092300289930'
+lifecycle_stage: active
+run_id: 8c6981a35f4843c6854f6369194d45f2
+run_name: amazing-grub-666
+run_uuid: 8c6981a35f4843c6854f6369194d45f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734582420304
+status: 3
+tags: []
+user_id: rikes

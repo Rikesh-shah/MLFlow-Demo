@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/491389092300289930/6f057b6073d740478ca9d425989fb83a/artifacts
+end_time: 1734582354188
+entry_point_name: ''
+experiment_id: '491389092300289930'
+lifecycle_stage: active
+run_id: 6f057b6073d740478ca9d425989fb83a
+run_name: bemused-goose-842
+run_uuid: 6f057b6073d740478ca9d425989fb83a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734582350083
+status: 3
+tags: []
+user_id: rikes

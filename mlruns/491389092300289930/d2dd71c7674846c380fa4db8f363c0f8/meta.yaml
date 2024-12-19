@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/491389092300289930/d2dd71c7674846c380fa4db8f363c0f8/artifacts
+end_time: 1734588046697
+entry_point_name: ''
+experiment_id: '491389092300289930'
+lifecycle_stage: active
+run_id: d2dd71c7674846c380fa4db8f363c0f8
+run_name: bald-trout-301
+run_uuid: d2dd71c7674846c380fa4db8f363c0f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734588046501
+status: 3
+tags: []
+user_id: rikes

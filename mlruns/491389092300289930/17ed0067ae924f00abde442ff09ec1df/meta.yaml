@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/491389092300289930/17ed0067ae924f00abde442ff09ec1df/artifacts
+end_time: 1734582420223
+entry_point_name: ''
+experiment_id: '491389092300289930'
+lifecycle_stage: active
+run_id: 17ed0067ae924f00abde442ff09ec1df
+run_name: hilarious-mare-596
+run_uuid: 17ed0067ae924f00abde442ff09ec1df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734582415985
+status: 3
+tags: []
+user_id: rikes

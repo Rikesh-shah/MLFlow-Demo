@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/491389092300289930/745d1720118a4c8489cbab60113ce7af/artifacts
+end_time: 1734582498937
+entry_point_name: ''
+experiment_id: '491389092300289930'
+lifecycle_stage: active
+run_id: 745d1720118a4c8489cbab60113ce7af
+run_name: carefree-mole-23
+run_uuid: 745d1720118a4c8489cbab60113ce7af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734582494578
+status: 3
+tags: []
+user_id: rikes

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/491389092300289930/68b44f50648644bfb66124ef899adf57/artifacts
+end_time: 1734582446456
+entry_point_name: ''
+experiment_id: '491389092300289930'
+lifecycle_stage: active
+run_id: 68b44f50648644bfb66124ef899adf57
+run_name: enthused-stork-577
+run_uuid: 68b44f50648644bfb66124ef899adf57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734582442224
+status: 3
+tags: []
+user_id: rikes

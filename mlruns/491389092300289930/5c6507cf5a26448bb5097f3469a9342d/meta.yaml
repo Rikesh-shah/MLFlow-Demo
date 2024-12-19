@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/491389092300289930/5c6507cf5a26448bb5097f3469a9342d/artifacts
+end_time: 1734588050063
+entry_point_name: ''
+experiment_id: '491389092300289930'
+lifecycle_stage: active
+run_id: 5c6507cf5a26448bb5097f3469a9342d
+run_name: rebellious-perch-956
+run_uuid: 5c6507cf5a26448bb5097f3469a9342d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734588049888
+status: 3
+tags: []
+user_id: rikes

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/491389092300289930/d07651c6d27a49ad8698500bbe8cdcec/artifacts
+end_time: 1734588050939
+entry_point_name: ''
+experiment_id: '491389092300289930'
+lifecycle_stage: active
+run_id: d07651c6d27a49ad8698500bbe8cdcec
+run_name: chill-bug-398
+run_uuid: d07651c6d27a49ad8698500bbe8cdcec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734588050696
+status: 3
+tags: []
+user_id: rikes

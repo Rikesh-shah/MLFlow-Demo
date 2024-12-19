@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/491389092300289930/a7f786e1f349413598f8a94142371775/artifacts
+end_time: 1734588054619
+entry_point_name: ''
+experiment_id: '491389092300289930'
+lifecycle_stage: active
+run_id: a7f786e1f349413598f8a94142371775
+run_name: trusting-trout-211
+run_uuid: a7f786e1f349413598f8a94142371775
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734588054452
+status: 3
+tags: []
+user_id: rikes

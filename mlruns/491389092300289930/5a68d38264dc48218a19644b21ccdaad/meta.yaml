@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/491389092300289930/5a68d38264dc48218a19644b21ccdaad/artifacts
+end_time: 1734582490052
+entry_point_name: ''
+experiment_id: '491389092300289930'
+lifecycle_stage: active
+run_id: 5a68d38264dc48218a19644b21ccdaad
+run_name: clumsy-gnu-291
+run_uuid: 5a68d38264dc48218a19644b21ccdaad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734582485900
+status: 3
+tags: []
+user_id: rikes

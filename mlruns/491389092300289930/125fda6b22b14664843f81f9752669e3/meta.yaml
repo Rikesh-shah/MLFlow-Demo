@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/491389092300289930/125fda6b22b14664843f81f9752669e3/artifacts
+end_time: 1734582315455
+entry_point_name: ''
+experiment_id: '491389092300289930'
+lifecycle_stage: active
+run_id: 125fda6b22b14664843f81f9752669e3
+run_name: rare-shrimp-681
+run_uuid: 125fda6b22b14664843f81f9752669e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734582311022
+status: 3
+tags: []
+user_id: rikes

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/491389092300289930/f07dc0dc5d3f491d9a258471091ccabd/artifacts
+end_time: 1734588052175
+entry_point_name: ''
+experiment_id: '491389092300289930'
+lifecycle_stage: active
+run_id: f07dc0dc5d3f491d9a258471091ccabd
+run_name: polite-ram-667
+run_uuid: f07dc0dc5d3f491d9a258471091ccabd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734588052001
+status: 3
+tags: []
+user_id: rikes

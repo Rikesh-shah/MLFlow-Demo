@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/491389092300289930/9c307ee0efbc461e9b1c0943a860c851/artifacts
+end_time: 1734582328450
+entry_point_name: ''
+experiment_id: '491389092300289930'
+lifecycle_stage: active
+run_id: 9c307ee0efbc461e9b1c0943a860c851
+run_name: learned-toad-752
+run_uuid: 9c307ee0efbc461e9b1c0943a860c851
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734582324145
+status: 3
+tags: []
+user_id: rikes

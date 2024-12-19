@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/258752146598027028/f2826ab07c7b44efad705c4cbeee66fb/artifacts
+end_time: 1734580275283
+entry_point_name: ''
+experiment_id: '258752146598027028'
+lifecycle_stage: active
+run_id: f2826ab07c7b44efad705c4cbeee66fb
+run_name: upset-kit-489
+run_uuid: f2826ab07c7b44efad705c4cbeee66fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734580263910
+status: 3
+tags: []
+user_id: rikes

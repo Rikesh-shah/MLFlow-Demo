@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/258752146598027028/1a120a33bc524ec187e8e87f5b08307e/artifacts
+end_time: 1734580275283
+entry_point_name: ''
+experiment_id: '258752146598027028'
+lifecycle_stage: active
+run_id: 1a120a33bc524ec187e8e87f5b08307e
+run_name: puzzled-goat-894
+run_uuid: 1a120a33bc524ec187e8e87f5b08307e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734580263910
+status: 3
+tags: []
+user_id: rikes

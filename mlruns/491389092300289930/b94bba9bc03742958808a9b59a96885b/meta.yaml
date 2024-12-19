@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/491389092300289930/b94bba9bc03742958808a9b59a96885b/artifacts
+end_time: 1734588057423
+entry_point_name: ''
+experiment_id: '491389092300289930'
+lifecycle_stage: active
+run_id: b94bba9bc03742958808a9b59a96885b
+run_name: grandiose-zebra-820
+run_uuid: b94bba9bc03742958808a9b59a96885b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734588057214
+status: 3
+tags: []
+user_id: rikes

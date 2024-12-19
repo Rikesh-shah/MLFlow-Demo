@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/491389092300289930/4ebbe5e2923b4ad8b9cb4da81224fca8/artifacts
+end_time: 1734588053549
+entry_point_name: ''
+experiment_id: '491389092300289930'
+lifecycle_stage: active
+run_id: 4ebbe5e2923b4ad8b9cb4da81224fca8
+run_name: powerful-stork-982
+run_uuid: 4ebbe5e2923b4ad8b9cb4da81224fca8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734588053409
+status: 3
+tags: []
+user_id: rikes

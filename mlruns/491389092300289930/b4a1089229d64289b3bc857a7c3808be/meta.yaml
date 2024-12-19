@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/491389092300289930/b4a1089229d64289b3bc857a7c3808be/artifacts
+end_time: 1734582508089
+entry_point_name: ''
+experiment_id: '491389092300289930'
+lifecycle_stage: active
+run_id: b4a1089229d64289b3bc857a7c3808be
+run_name: learned-lynx-42
+run_uuid: b4a1089229d64289b3bc857a7c3808be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734582503928
+status: 3
+tags: []
+user_id: rikes

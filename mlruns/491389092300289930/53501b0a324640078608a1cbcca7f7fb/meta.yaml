@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/491389092300289930/53501b0a324640078608a1cbcca7f7fb/artifacts
+end_time: 1734582473110
+entry_point_name: ''
+experiment_id: '491389092300289930'
+lifecycle_stage: active
+run_id: 53501b0a324640078608a1cbcca7f7fb
+run_name: capricious-hare-106
+run_uuid: 53501b0a324640078608a1cbcca7f7fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734582468680
+status: 3
+tags: []
+user_id: rikes

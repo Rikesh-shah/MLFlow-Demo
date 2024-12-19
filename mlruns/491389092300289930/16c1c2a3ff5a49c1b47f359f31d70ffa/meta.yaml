@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/491389092300289930/16c1c2a3ff5a49c1b47f359f31d70ffa/artifacts
+end_time: 1734588054411
+entry_point_name: ''
+experiment_id: '491389092300289930'
+lifecycle_stage: active
+run_id: 16c1c2a3ff5a49c1b47f359f31d70ffa
+run_name: puzzled-conch-304
+run_uuid: 16c1c2a3ff5a49c1b47f359f31d70ffa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734588054219
+status: 3
+tags: []
+user_id: rikes

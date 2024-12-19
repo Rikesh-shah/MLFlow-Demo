@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/491389092300289930/82491bca3f1e4582baebcecda817c55b/artifacts
+end_time: 1734582370846
+entry_point_name: ''
+experiment_id: '491389092300289930'
+lifecycle_stage: active
+run_id: 82491bca3f1e4582baebcecda817c55b
+run_name: puzzled-skunk-387
+run_uuid: 82491bca3f1e4582baebcecda817c55b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734582366743
+status: 3
+tags: []
+user_id: rikes

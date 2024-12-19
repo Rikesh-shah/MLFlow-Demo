@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/491389092300289930/a5f7a17e96d34da7a272fc118f4b0a82/artifacts
+end_time: 1734588046464
+entry_point_name: ''
+experiment_id: '491389092300289930'
+lifecycle_stage: active
+run_id: a5f7a17e96d34da7a272fc118f4b0a82
+run_name: melodic-ray-77
+run_uuid: a5f7a17e96d34da7a272fc118f4b0a82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734588046235
+status: 3
+tags: []
+user_id: rikes

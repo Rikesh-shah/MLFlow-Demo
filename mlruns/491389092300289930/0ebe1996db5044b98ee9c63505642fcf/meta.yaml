@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/491389092300289930/0ebe1996db5044b98ee9c63505642fcf/artifacts
+end_time: 1734588057173
+entry_point_name: ''
+experiment_id: '491389092300289930'
+lifecycle_stage: active
+run_id: 0ebe1996db5044b98ee9c63505642fcf
+run_name: bouncy-hound-891
+run_uuid: 0ebe1996db5044b98ee9c63505642fcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734588056940
+status: 3
+tags: []
+user_id: rikes

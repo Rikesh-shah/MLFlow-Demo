@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/491389092300289930/0a4815e29bde4731868cdf27ffddf1e7/artifacts
+end_time: 1734588056175
+entry_point_name: ''
+experiment_id: '491389092300289930'
+lifecycle_stage: active
+run_id: 0a4815e29bde4731868cdf27ffddf1e7
+run_name: crawling-shrew-254
+run_uuid: 0a4815e29bde4731868cdf27ffddf1e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734588055980
+status: 3
+tags: []
+user_id: rikes

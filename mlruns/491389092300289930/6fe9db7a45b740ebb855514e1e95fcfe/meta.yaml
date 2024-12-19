@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/491389092300289930/6fe9db7a45b740ebb855514e1e95fcfe/artifacts
+end_time: 1734588053371
+entry_point_name: ''
+experiment_id: '491389092300289930'
+lifecycle_stage: active
+run_id: 6fe9db7a45b740ebb855514e1e95fcfe
+run_name: bedecked-shark-519
+run_uuid: 6fe9db7a45b740ebb855514e1e95fcfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734588053158
+status: 3
+tags: []
+user_id: rikes

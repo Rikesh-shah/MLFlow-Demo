@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/491389092300289930/013d14eb0dcc47a098f4f078436d6171/artifacts
+end_time: 1734582378970
+entry_point_name: ''
+experiment_id: '491389092300289930'
+lifecycle_stage: active
+run_id: 013d14eb0dcc47a098f4f078436d6171
+run_name: peaceful-squid-393
+run_uuid: 013d14eb0dcc47a098f4f078436d6171
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734582375185
+status: 3
+tags: []
+user_id: rikes

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/258752146598027028/fc613ad8034240f7bbf45000c369376a/artifacts
+end_time: 1734579626437
+entry_point_name: ''
+experiment_id: '258752146598027028'
+lifecycle_stage: active
+run_id: fc613ad8034240f7bbf45000c369376a
+run_name: whimsical-elk-466
+run_uuid: fc613ad8034240f7bbf45000c369376a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734579614346
+status: 3
+tags: []
+user_id: rikes

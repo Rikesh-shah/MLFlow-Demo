@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/491389092300289930/6d8d376d491d4dad943888c29fd37212/artifacts
+end_time: 1734582350008
+entry_point_name: ''
+experiment_id: '491389092300289930'
+lifecycle_stage: active
+run_id: 6d8d376d491d4dad943888c29fd37212
+run_name: skillful-slug-963
+run_uuid: 6d8d376d491d4dad943888c29fd37212
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734582345555
+status: 3
+tags: []
+user_id: rikes

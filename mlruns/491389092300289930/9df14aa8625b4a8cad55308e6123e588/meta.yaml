@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/491389092300289930/9df14aa8625b4a8cad55308e6123e588/artifacts
+end_time: 1734588046842
+entry_point_name: ''
+experiment_id: '491389092300289930'
+lifecycle_stage: active
+run_id: 9df14aa8625b4a8cad55308e6123e588
+run_name: abrasive-goose-402
+run_uuid: 9df14aa8625b4a8cad55308e6123e588
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734588046736
+status: 3
+tags: []
+user_id: rikes

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/491389092300289930/d30f89802d374f4eb31d96d375a0b6f9/artifacts
+end_time: 1734582324067
+entry_point_name: ''
+experiment_id: '491389092300289930'
+lifecycle_stage: active
+run_id: d30f89802d374f4eb31d96d375a0b6f9
+run_name: resilient-tern-387
+run_uuid: d30f89802d374f4eb31d96d375a0b6f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734582319952
+status: 3
+tags: []
+user_id: rikes

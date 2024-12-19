@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/491389092300289930/6f4dc35277254653a9b99921e2278143/artifacts
+end_time: 1734588046996
+entry_point_name: ''
+experiment_id: '491389092300289930'
+lifecycle_stage: active
+run_id: 6f4dc35277254653a9b99921e2278143
+run_name: angry-turtle-458
+run_uuid: 6f4dc35277254653a9b99921e2278143
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734588046874
+status: 3
+tags: []
+user_id: rikes

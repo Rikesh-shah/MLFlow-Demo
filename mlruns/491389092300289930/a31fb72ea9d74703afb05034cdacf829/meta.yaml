@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/491389092300289930/a31fb72ea9d74703afb05034cdacf829/artifacts
+end_time: 1734588052664
+entry_point_name: ''
+experiment_id: '491389092300289930'
+lifecycle_stage: active
+run_id: a31fb72ea9d74703afb05034cdacf829
+run_name: monumental-duck-669
+run_uuid: a31fb72ea9d74703afb05034cdacf829
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734588052449
+status: 3
+tags: []
+user_id: rikes

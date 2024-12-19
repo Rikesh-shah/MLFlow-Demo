@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/258752146598027028/d76b1f2255074da3867ae6951e057fe3/artifacts
+end_time: 1734579630371
+entry_point_name: ''
+experiment_id: '258752146598027028'
+lifecycle_stage: active
+run_id: d76b1f2255074da3867ae6951e057fe3
+run_name: best_model
+run_uuid: d76b1f2255074da3867ae6951e057fe3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734579627214
+status: 3
+tags: []
+user_id: rikes

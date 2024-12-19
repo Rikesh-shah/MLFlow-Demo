@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/491389092300289930/40970f45eb7d4f64992abdd985f7a0b2/artifacts
+end_time: 1734588050232
+entry_point_name: ''
+experiment_id: '491389092300289930'
+lifecycle_stage: active
+run_id: 40970f45eb7d4f64992abdd985f7a0b2
+run_name: rebellious-sloth-102
+run_uuid: 40970f45eb7d4f64992abdd985f7a0b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734588050104
+status: 3
+tags: []
+user_id: rikes

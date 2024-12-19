@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/491389092300289930/d286cbab0c0e467ea148a80cdf3fa99c/artifacts
+end_time: 1734582332800
+entry_point_name: ''
+experiment_id: '491389092300289930'
+lifecycle_stage: active
+run_id: d286cbab0c0e467ea148a80cdf3fa99c
+run_name: capable-fowl-165
+run_uuid: d286cbab0c0e467ea148a80cdf3fa99c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734582328537
+status: 3
+tags: []
+user_id: rikes

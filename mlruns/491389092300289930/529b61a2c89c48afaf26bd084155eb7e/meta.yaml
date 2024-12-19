@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/491389092300289930/529b61a2c89c48afaf26bd084155eb7e/artifacts
+end_time: 1734588054877
+entry_point_name: ''
+experiment_id: '491389092300289930'
+lifecycle_stage: active
+run_id: 529b61a2c89c48afaf26bd084155eb7e
+run_name: beautiful-perch-489
+run_uuid: 529b61a2c89c48afaf26bd084155eb7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734588054657
+status: 3
+tags: []
+user_id: rikes

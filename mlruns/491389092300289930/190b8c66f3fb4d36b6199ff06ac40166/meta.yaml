@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/491389092300289930/190b8c66f3fb4d36b6199ff06ac40166/artifacts
+end_time: 1734588049846
+entry_point_name: ''
+experiment_id: '491389092300289930'
+lifecycle_stage: active
+run_id: 190b8c66f3fb4d36b6199ff06ac40166
+run_name: upbeat-donkey-692
+run_uuid: 190b8c66f3fb4d36b6199ff06ac40166
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734588049663
+status: 3
+tags: []
+user_id: rikes
